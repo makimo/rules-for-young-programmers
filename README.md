@@ -6,7 +6,7 @@ Following Robert Schumann's [Rules For Young Musicians](https://jmm.people.si.um
 
 ## I
 
-The most important thing is to cultivate the sense of Seeing. Take pains early to embrace sightreading, as reading code makes the most of the programmer's work.
+The most important thing is to cultivate the sense of Seeing. Take pains early to embrace understanding while sightreading, as reading code makes the most of the programmer's work.
 
 ## II
 
@@ -26,7 +26,7 @@ Strive to write S-Programs well and beautifully; it is necessary for a practicio
 
 ## VI
 
-Algoritms are a good example of S-Programs. If you need for your next excercise, try to implement and then understand the inner workings of an algorithm in the language of your choosing.
+Algorithms are good examples of S-Programs. If you're looking for a next exercise, try to implement and then understand the inner workings of an algorithm in the language of your choosing.
 
 ## VII
 
@@ -50,7 +50,7 @@ There's a confusion in the meaning of the `=` symbol. A mathematician might say 
 
 ## XII
 
-Acquaintance yourself early with the idea that any program you wrote will be studied by others and it's your responsibility to teach them to orient themselves in your code. Each program constitutes an act of teaching.
+Acquaint yourself early with the idea that any program you wrote will be studied by others and it's your responsibility to teach them to orient themselves in your code. Each program constitutes an act of teaching.
 
 ## XIII
 
@@ -58,15 +58,15 @@ Never write tests for how the code was written. Write tests for how it's going t
 
 ## XIV
 
-A good metaphor for the reactive programming paradigm is the electricity. You are not interested in the principles that make the current flow inside the wire, you just connect the wires and it works.
+A good metaphor for the reactive programming paradigm is electricity. You are not interested in the principles that make the current flow inside the wire, you expect to just connect the wires to make things work.
 
 ## XV
 
-Acquire early a skill to compare and concatenate paths by eye. Many programmers spent hours just to find out their program is not pointing to the right file or directory.
+Acquire early a skill to compare and concatenate paths by eye. Many programmers spent hours just to find out their program is not pointing to the right file, directory or a network address.
 
 ## XVI
 
-Learn to seek out for the precise terminology and use it deliberately. For example, a procedure and a function may seem similar, but there's a consequence in the meaning and application of each one.
+Learn to seek for the precise terminology and use it deliberately. For example, a procedure and a function may seem similar, but there's a consequence in the meaning and application of each one.
 
 ## Authors
 
