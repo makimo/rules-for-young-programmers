@@ -18,7 +18,7 @@ Develop a strict discipline of writing your code in a consistent manner. For a s
 
 ## IV
 
-Lehman's classification of [S-programs, P-programs and E-programs](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf) is a very useful concept. They are highly correlated with Clear, Complicated and Complex domains in the Cynefin framework.
+Lehman's classification of [S-programs, P-programs and E-programs](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf) is a very useful concept. They are highly correlated with [Clear, Complicated and Complex](https://cynefin.io/wiki/Cynefin_Domains) domains in the Cynefin framework.
 
 ## V
 
@@ -46,7 +46,7 @@ Avoid mixing up declarative and imperative code. It's like answering the questio
 
 ## XI
 
-There's a confusion in the meaning of the `=` symbol. A mathematician might say this determines equality between two sides. A functional programmer might say it's about binding a name to a value. An imperative programmer will say that's assignment operator that mutates the program state.
+Don't confuse divergent meanings of the `=` symbol across paradigms. A mathematician might say this determines equality between two sides. A functional programmer might say it's about binding a name to a value. An imperative programmer will say that's assignment operator that mutates the program state.
 
 ## XII
 
@@ -68,6 +68,7 @@ Acquire early a skill to compare and concatenate paths by eye. Many programmers 
 
 Learn to seek for the precise terminology and use it deliberately. For example, a procedure and a function may seem similar, but there's a consequence in the meaning and application of each one.
 
-## Authors
+## Contributors
 
 - Michał Moroz <michal@makimo.pl>
+- Mateusz Papiernik <mateusz@makimo.pl>
