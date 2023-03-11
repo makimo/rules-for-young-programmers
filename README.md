@@ -68,6 +68,22 @@ Acquire early a skill to compare and concatenate paths by eye. Many programmers 
 
 Learn to seek for the precise terminology and use it deliberately. For example, a procedure and a function may seem similar, but there's a consequence in the meaning and application of each one.
 
+## XVII
+
+Develop understanding of [The principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf) from the book "Concepts, Techniques, and Models of Computer Programming". This will make you appreciate the paradigm you are working with even more and draw deeper connections between the worlds of declarative and imperative programming.
+
+## XVIII
+
+The prevalence of classes in languages such as Java spoils the mind and depletes the diversity found in other languages and paradigms. Break out of that spiral by noticing that OOP is built on the foundation of only three elements: a procedure, a closure and a state cell, and thus, there is no mysticism in using classes.
+
+## XIX
+
+Learn to use divide and conquer strategies when debugging the code. If you know there's a bug somewhere between line A and B in your code, develop hypotheses which will introduce point C inbetween A and B, which can be then validated. That way you'll be able to discover whether the bug is in (A, C) or (C, B).
+
+## XX
+
+Develop understanding of multiple languages and paradigms in addition to knowing a few of them expertly.
+
 ## Contributors
 
 - Michał Moroz <michal@makimo.pl>
