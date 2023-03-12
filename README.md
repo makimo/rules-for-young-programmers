@@ -84,6 +84,26 @@ Learn to use divide and conquer strategies when debugging the code. If you know 
 
 Develop understanding of multiple languages and paradigms in addition to knowing a few of them expertly.
 
+## XXI
+
+Many face dread when taking over someone's program. Do not let it overcome you. The moment you reach a conclusion that some code should not be changed no matter what, you become slave to the mistakes of the past.
+
+## XXII
+
+It's a programmer's responsibility to introduce quality to the code. If you don't devote a bit of time for that, nobody does.
+
+## XXIII
+
+One might believe that constraints only impose restrictions on the thing being constrained. But an outdoor concrete bench, while still preventing you going straight through it, enables sitting as a new possible pattern of behaviour. Similarily, [constraints](https://cynefin.io/wiki/Constraints) shaping the reality of your program not necessarily just reduce the set of options at hand.
+
+## XXIV
+
+Learn to appreciate functions, especially the pure ones. They are never less consistent than the procedures and you can contemplate them in separation to the rest of the program, as their behaviour does not change when the program state changes.
+
+## XXV
+
+Within the Cynefin framework, the act of writing a program lies in the [Complicated domain](https://cynefin.io/wiki/Cynefin_Domains), as the outcome (the program being complete or not) can be easily predicted with a high degree of accuracy by an expert. The consequences of the aforementioned is that the act of program writing can both be mastered by one and replicated by many.
+
 ## Contributors
 
 - Michał Moroz <michal@makimo.pl>
