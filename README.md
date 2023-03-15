@@ -4,6 +4,14 @@ Following Robert Schumann's [Rules For Young Musicians](https://jmm.people.si.um
 
 > Once you have read them, you will find yourself reading them again and again, finding the wisdom they contain more absorbing and rewarding each time.
 
+## Usage
+
+As we believe the practice of programming is very similar to practicing piano or other classical instrument, there's too much nuance in the discipline for one to become a good programmer learning from written resources only.
+
+Therefore, the presence of another person in your education process is of utmost importance. That person can be your mentor or a senior colleague.
+
+These "Rules..." are meant to be discovered together, preferrably with younger programmer asking a more seasoned one on the nature of a specfific item in this list, so that they can engage in a meaningful discussion about it.
+
 ## I
 
 The most important thing is to cultivate the sense of Seeing. Take pains early to embrace understanding while sightreading, as reading code makes the most of the programmer's work.
