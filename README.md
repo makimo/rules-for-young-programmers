@@ -98,7 +98,7 @@ One might believe that constraints only impose restrictions on the thing being c
 
 ## XXIV
 
-Learn to appreciate functions, especially the pure ones. They are never less consistent than the procedures and you can contemplate them in separation to the rest of the program, as their behaviour does not change when the program state changes.
+Learn to appreciate functions, especially the pure ones. They are often simpler to concpetualize, because they drop order to favour relations and can be considered in separation to the rest of the program.
 
 ## XXV
 
