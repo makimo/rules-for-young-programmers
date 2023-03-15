@@ -68,6 +68,46 @@ Acquire early a skill to compare and concatenate paths by eye. Many programmers 
 
 Learn to seek for the precise terminology and use it deliberately. For example, a procedure and a function may seem similar, but there's a consequence in the meaning and application of each one.
 
+## XVII
+
+Develop understanding of [The principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf) from the book "Concepts, Techniques, and Models of Computer Programming". This will make you appreciate the paradigm you are working with even more and draw deeper connections between the worlds of declarative and imperative programming.
+
+## XVIII
+
+The prevalence of classes in languages such as Java spoils the mind and depletes the diversity found in other languages and paradigms. Break out of that spiral by noticing that OOP is built on the foundation of only three elements: a procedure, a closure and a state cell, and thus, there is no mysticism in using classes.
+
+## XIX
+
+Learn to use divide and conquer strategies when debugging the code. If you know there's a bug somewhere between line A and B in your code, develop hypotheses which will introduce point C inbetween A and B, which can be then validated. That way you'll be able to discover whether the bug is in (A, C) or (C, B).
+
+## XX
+
+Develop understanding of multiple languages and paradigms in addition to knowing a few of them expertly.
+
+## XXI
+
+Many face dread when taking over someone's program. Do not let it overcome you. The moment you reach a conclusion that some code should not be changed no matter what, you become slave to the mistakes of the past.
+
+## XXII
+
+It's a programmer's responsibility to introduce quality to the code. If you don't devote a bit of time for that, nobody does.
+
+## XXIII
+
+One might believe that constraints only impose restrictions on the thing being constrained. But an outdoor concrete bench, while still preventing you going straight through it, enables sitting as a new possible pattern of behaviour. Similarily, [constraints](https://cynefin.io/wiki/Constraints) shaping the reality of your program not necessarily just reduce the set of options at hand.
+
+## XXIV
+
+Learn to appreciate functions, especially the pure ones. They are often simpler to concpetualize, because they can be considered in separation to the rest of the program.
+
+## XXV
+
+Within the Cynefin framework, the act of writing a program lies in the [Complicated domain](https://cynefin.io/wiki/Cynefin_Domains), as the outcome (the program being complete or not) can be easily predicted with a high degree of accuracy by an expert. The consequences of the aforementioned is that the act of program writing can both be mastered by one and replicated by many.
+
+## XXVI
+
+A good metaphor of a function is a set of equations relating its input with the output. That way even the order of instructions can be dropped, and in some languages (like Lustre), that happens.
+
 ## Contributors
 
 - Michał Moroz <michal@makimo.pl>
