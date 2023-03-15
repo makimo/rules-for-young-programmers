@@ -98,11 +98,15 @@ One might believe that constraints only impose restrictions on the thing being c
 
 ## XXIV
 
-Learn to appreciate functions, especially the pure ones. They are often simpler to concpetualize, because they drop order to favour relations and can be considered in separation to the rest of the program.
+Learn to appreciate functions, especially the pure ones. They are often simpler to concpetualize, because they can be considered in separation to the rest of the program.
 
 ## XXV
 
 Within the Cynefin framework, the act of writing a program lies in the [Complicated domain](https://cynefin.io/wiki/Cynefin_Domains), as the outcome (the program being complete or not) can be easily predicted with a high degree of accuracy by an expert. The consequences of the aforementioned is that the act of program writing can both be mastered by one and replicated by many.
+
+## XXVI
+
+A good metaphor of a function is a set of equations relating its input with the output. That way even the order of instructions can be dropped, and in some languages (like Lustre), that happens.
 
 ## Contributors
 
