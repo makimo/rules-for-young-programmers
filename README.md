@@ -152,7 +152,11 @@ If you read Conway's Law carefully enough, it tells that sometimes it's insuffic
 
 There's a deep connection between programs and symmetries. Similarly as a square can be mirrored and rotated while preserving its shape, the money transactional logic can transfer money between accounts while preserving the total amount of money in the environment under which the system operates.
 
-## Contributors
+# Contributing
 
-- Michał Moroz <michal@makimo.pl>
-- Mateusz Papiernik <mateusz@makimo.pl>
+Contributions are always welcome.
+
+If you'd like to:
+
+- add new rules, fork and create a pull request with your additions
+- discuss existing rules and make corrections, create an [issue](https://github.com/makimo/rules-for-young-programmers/issues) in this repository.
