@@ -116,6 +116,42 @@ Within the Cynefin framework, the act of writing a program lies in the [Complica
 
 A good metaphor of a function is a set of equations relating its input with the output. That way even the order of instructions can be dropped, and in some languages (like Lustre), that happens.
 
+## XXVII
+
+Code that has served its purpose needs to go. Make a decent funeral out of it, and do not invoke the dark arts of Necromancy because you are not ready to part with it yet.
+
+## XXVIII
+
+Most times, the program or module you are writing is a part of many in the living environment of a larger system. Even if you might spend lots of time on this one part only, be wary of getting too protective about the fruit of your work. Mind that in a living organism, only cancer cells wall off from the greater purpose of achieving the whole work.
+
+## XXIX
+
+Not every problem is solved by a program.
+
+## XXX
+
+Even if your technology seems to be neatly fitted in the confines of your IDE, don't shy away from learning how to use terminal and how to script around your tools.
+
+## XXXI
+
+Both backend programming and frontend programming require some level of aesthetics. Look at the beautiful examples and develop an urge to seek the ugly places in the codebase and improve them. Not always you'll have the time or power to do so, but that should not propel you into indifference.
+
+## XXXII
+
+Many great tools are combined together to achieve something new. A Docker container and a compiler, for example. A crucial cognitive skill is learning the basic tools up to such a level so that one can troubleshoot problems when the tools are combined together.
+
+## XXXIII
+
+Learn the boundaries of your basic tools. Oftentimes, a developer is introduced to both a language and a library or framework at the same time and they cannot separate one from the other. Similarily, a trog is a dog combined with the nearest tree. I wonder why people don't use this term more often?
+
+## XXXIV
+
+If you read Conway's Law carefully enough, it tells that sometimes it's insufficient to just shape the code at hand. Take a look around you and notice how people organize themselves around the tasks – maybe then you'll discover new ways to influence the system design.
+
+## XXXV
+
+There's a deep connection between programs and symmetries. Similarly as a square can be mirrored and rotated while preserving its shape, the money transactional logic can transfer money between accounts while preserving the total amount of money in the environment under which the system operates.
+
 ## Contributors
 
 - Michał Moroz <michal@makimo.pl>
