@@ -122,7 +122,7 @@ Code that has served its purpose needs to go. Make a decent funeral out of it, a
 
 ## XXVIII
 
-Accustom yourself to seeing the system as a whole. Even if you are a part of many in this living organism, only cancer walls off from the greater purpose of achieving the whole work.
+Most times, the program or module you are writing is a part of many in the living environment of a larger system. Even if you might spend lots of time on this one part only, be wary of getting too protective about the fruit of your work. Mind that in a living organism, only cancer cells wall off from the greater purpose of achieving the whole work.
 
 ## XXIX
 
@@ -134,7 +134,7 @@ Even if your technology seems to be neatly fitted in the confines of your IDE, d
 
 ## XXXI
 
-Both backend programming and frontend programming require some level of aesthetics. Look at the beautiful examples and develop an urge to improve the ugly ones as soon as you see them. Do not become complacent.
+Both backend programming and frontend programming require some level of aesthetics. Look at the beautiful examples and develop an urge to seek the ugly places in the codebase and improve them. Not always you'll have the time or power to do so, but that should not propel you into indifference.
 
 ## XXXII
 
