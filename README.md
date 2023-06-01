@@ -156,7 +156,7 @@ There's a deep connection between programs and symmetries. Similarly as a square
 
 Contributions are always welcome.
 
-If you'd like to:
+In order to:
 
-- add new rules, fork and create a pull request with your additions
-- discuss existing rules and make corrections, create an [issue](https://github.com/makimo/rules-for-young-programmers/issues) in this repository.
+1. Add new rules: fork this repository and create a pull request with your additions.
+2. Discuss existing rules and make corrections: create an [issue](https://github.com/makimo/rules-for-young-programmers/issues) in this repository.
