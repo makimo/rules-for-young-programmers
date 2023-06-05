@@ -10,11 +10,11 @@ As we believe the practice of programming is very similar to practicing piano or
 
 Therefore, the presence of another person in your education process is of utmost importance. That person can be your mentor or a senior colleague.
 
-These "Rules..." are meant to be discovered together, preferrably with younger programmer asking a more seasoned one on the nature of a specfific item in this list, so that they can engage in a meaningful discussion about it.
+These "Rules..." are meant to be discovered together, preferably with younger programmer asking a more seasoned one on the nature of a specific item in this list, so that they can engage in a meaningful discussion about it.
 
 ## I
 
-The most important thing is to cultivate the sense of Seeing. Take pains early to embrace understanding while sightreading, as reading code makes the most of the programmer's work.
+The most important thing is to cultivate the sense of Seeing. Take pains early to embrace understanding while sight reading, as reading code makes the most of the programmer's work.
 
 ## II
 
@@ -22,7 +22,7 @@ Each code editor has syntax highlighting – use it to spot functions, control s
 
 ## III
 
-Develop a strict discipline of writing your code in a consistent manner. For a seasoned programmer, every indentation or empty line matters and makes sightreading easier.
+Develop a strict discipline of writing your code in a consistent manner. For a seasoned programmer, every indentation or empty line matters and makes sight reading easier.
 
 ## IV
 
@@ -30,7 +30,7 @@ Lehman's classification of [S-programs, P-programs and E-programs](https://users
 
 ## V
 
-Strive to write S-Programs well and beautifully; it is necessary for a practicioner to be able to write rock solid, fast and small programs, rather than a mediocre large system.
+Strive to write S-Programs well and beautifully; it is necessary for a practitioner to be able to write rock solid, fast and small programs, rather than a mediocre large system.
 
 ## VI
 
@@ -54,11 +54,11 @@ Avoid mixing up declarative and imperative code. It's like answering the questio
 
 ## XI
 
-Don't confuse divergent meanings of the `=` symbol across paradigms. A mathematician might say this determines equality between two sides. A functional programmer might say it's about binding a name to a value. An imperative programmer will say that's assignment operator that mutates the program state.
+Don't confuse divergent meanings of the `=` symbol across paradigms. A mathematician might say this determines equality between two sides. A functional programmer might say it's about binding a name to a value. An imperative programmer will say that's the assignment operator that mutates the program state.
 
 ## XII
 
-Acquaint yourself early with the idea that any program you wrote will be studied by others and it's your responsibility to teach them to orient themselves in your code. Each program constitutes an act of teaching.
+Acquaint yourself early with the idea that any program you write will be studied by others and it's your responsibility to teach them to orient themselves in your code. Each program constitutes an act of teaching.
 
 ## XIII
 
@@ -70,7 +70,7 @@ A good metaphor for the reactive programming paradigm is electricity. You are no
 
 ## XV
 
-Acquire early a skill to compare and concatenate paths by eye. Many programmers spent hours just to find out their program is not pointing to the right file, directory or a network address.
+Acquire early a skill to compare and concatenate paths by eye. Many programmers spend hours just to find out their program is not pointing to the right file, directory or a network address.
 
 ## XVI
 
@@ -86,7 +86,7 @@ The prevalence of classes in languages such as Java spoils the mind and depletes
 
 ## XIX
 
-Learn to use divide and conquer strategies when debugging the code. If you know there's a bug somewhere between line A and B in your code, develop hypotheses which will introduce point C inbetween A and B, which can be then validated. That way you'll be able to discover whether the bug is in (A, C) or (C, B).
+Learn to use divide and conquer strategies when debugging the code. If you know there's a bug somewhere between line A and B in your code, develop hypotheses which will introduce point C in between A and B, which can be then validated. That way you'll be able to discover whether the bug is in (A, C) or (C, B).
 
 ## XX
 
@@ -94,7 +94,7 @@ Develop understanding of multiple languages and paradigms in addition to knowing
 
 ## XXI
 
-Many face dread when taking over someone's program. Do not let it overcome you. The moment you reach a conclusion that some code should not be changed no matter what, you become slave to the mistakes of the past.
+Many face dread when taking over someone's program. Do not let it overcome you. The moment you reach a conclusion that some code should not be changed no matter what, you become a slave to the mistakes of the past.
 
 ## XXII
 
@@ -102,11 +102,11 @@ It's a programmer's responsibility to introduce quality to the code. If you don'
 
 ## XXIII
 
-One might believe that constraints only impose restrictions on the thing being constrained. But an outdoor concrete bench, while still preventing you going straight through it, enables sitting as a new possible pattern of behaviour. Similarily, [constraints](https://cynefin.io/wiki/Constraints) shaping the reality of your program not necessarily just reduce the set of options at hand.
+One might believe that constraints only impose restrictions on the thing being constrained. But an outdoor concrete bench, while still preventing you going straight through it, enables sitting as a new possible pattern of behaviour. Similarly, [constraints](https://cynefin.io/wiki/Constraints) shaping the reality of your program not necessarily just reduces the set of options at hand.
 
 ## XXIV
 
-Learn to appreciate functions, especially the pure ones. They are often simpler to concpetualize, because they can be considered in separation to the rest of the program.
+Learn to appreciate functions, especially the pure ones. They are often simpler to conceptualize, because they can be considered in separation to the rest of the program.
 
 ## XXV
 
@@ -142,7 +142,7 @@ Many great tools are combined together to achieve something new. A Docker contai
 
 ## XXXIII
 
-Learn the boundaries of your basic tools. Oftentimes, a developer is introduced to both a language and a library or framework at the same time and they cannot separate one from the other. Similarily, a trog is a dog combined with the nearest tree. I wonder why people don't use this term more often?
+Learn the boundaries of your basic tools. Oftentimes, a developer is introduced to both a language and a library or framework at the same time and they cannot separate one from the other. Similarly, a trog is a dog combined with the nearest tree. I wonder why people don't use this term more often?
 
 ## XXXIV
 
