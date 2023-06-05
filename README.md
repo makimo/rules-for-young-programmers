@@ -110,7 +110,7 @@ Learn to appreciate functions, especially the pure ones. They are often simpler 
 
 ## XXV
 
-Within the Cynefin framework, the act of writing a program lies in the [Complicated domain](https://cynefin.io/wiki/Cynefin_Domains), as the outcome (the program being complete or not) can be easily predicted with a high degree of accuracy by an expert. The consequences of the aforementioned is that the act of program writing can both be mastered by one and replicated by many.
+Within the Cynefin framework, the act of writing a program lies in the [Complicated domain](https://cynefin.io/wiki/Cynefin_Domains), as the outcome (the program being complete or not) can be easily predicted with a high degree of accuracy by an expert. The consequence of the aforementioned is that the act of program writing can both be mastered by one and replicated by many.
 
 ## XXVI
 
