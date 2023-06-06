@@ -1,6 +1,6 @@
 # Rules For Young Programmers
 
-Following Robert Schumann's [Rules For Young Musicians](https://jmm.people.si.umich.edu/blog/schumann%27s_rules_for_young_musicians.pdf) in merit and style, here's a set of maxims and aphorisms for aspiring and practicing programmers alike, in no particular order. As stated in the foreword to the original article:
+Following Robert Schumann's [Rules For Young Musicians](https://jmm.people.si.umich.edu/blog/schumann%27s_rules_for_young_musicians.pdf) ([mirror](https://www.scribd.com/document/391732530/schumann-s-rules-for-young-musicians-pdf)) in merit and style, here's a set of maxims and aphorisms for aspiring and practicing programmers alike, in no particular order. As stated in the foreword to the original article:
 
 > Once you have read them, you will find yourself reading them again and again, finding the wisdom they contain more absorbing and rewarding each time.
 
