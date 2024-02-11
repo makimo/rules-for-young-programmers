@@ -152,6 +152,14 @@ If you read Conway's Law carefully enough, it tells that sometimes it's insuffic
 
 There's a deep connection between programs and symmetries. Similarly as a square can be mirrored and rotated while preserving its shape, the money transactional logic can transfer money between accounts while preserving the total amount of money in the environment under which the system operates.
 
+## XXXVI
+
+YAGNI, DRY, KISS and other acronyms are attractive because they allow you to switch off the brain, by providing simple rules to follow.
+
+However, competent people should grow out of them at some point. Beware of slipping into autopilot mode. Throwing these acronyms around can be a convenient excuse for not looking deeper into a problem at hand.
+
+Make sure you revisit any catchy-phrase and study its origin and what author had in their mind. For example, DRY is not about duplicating code, but domain knowledge.
+
 # Contributing
 
 Contributions are always welcome.
