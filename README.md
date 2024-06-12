@@ -160,6 +160,14 @@ However, competent people should grow out of them at some point. Beware of slipp
 
 Make sure you revisit any catchy-phrase and study its origin and what author had in their mind. For example, DRY is not about duplicating code, but domain knowledge.
 
+## XXXVII
+
+Optimizing a task done only once in a lifetime is a waste of time.
+
+Not optimizing a task done a thousand times is also a waste of time.
+
+That applies both to the code and to the actions we perform in our daily lives.
+
 # Contributing
 
 Contributions are always welcome.
