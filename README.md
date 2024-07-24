@@ -168,6 +168,14 @@ Not optimizing a task done a thousand times is also a waste of time.
 
 That applies both to the code and to the actions we perform in our daily lives.
 
+## XXXVIII
+
+Do not fall into the trap of thinking that business code needs to look like all the libraries and frameworks documentation you are reading all the time. Library code needs to be generic and abstract to satisfy multiple needs, whereas business code will have lots of exceptions based on the reality of the business. Applying library code styles and patterns to business code will result in overgeneralization of the whole system.
+
+-----------
+
+- <https://wiki.c2.com/?WhyIsPayrollHard>
+
 # Contributing
 
 Contributions are always welcome.
